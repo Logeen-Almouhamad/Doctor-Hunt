@@ -1,0 +1,51 @@
+import 'package:flutter/material.dart';
+
+class AppColors {
+  static const Color primaryColor = Color(0xff0EBE7F);
+  static const Color whiteColor = Color(0xffFFFFFF);
+  static const Color blackColor = Color(0xff000000);
+  static const Color titleColor = Color(0xff333333);
+  static  Color subtitleColor = const Color(0xff677294).withOpacity(0.90);
+  static  Color topCircleColor = const Color(0xff61CEFF).withOpacity(0.72);
+  static  Color bottomCircleColor = const Color(0xff0EBE7E).withOpacity(0.30);
+  static  Color backArrowColor = const Color(0xff677294);
+  static  Color gridOneFirstColor = const Color(0xff2753F3);
+  static  Color gridOneSecondColor = const Color(0xff765AFC);
+  static  Color gridTwoFirstColor = const Color(0xffFF484C);
+  static  Color gridTwoSecondColor = const Color(0xffFF6C60);
+  static  Color gridThreeFirstColor = const Color(0xffFE7F44);
+  static  Color gridThreeSecondColor = const Color(0xffFFCF68);
+  static  Color gridFourFirstColor = const Color(0xff0EBE7E);
+  static  Color gridFourSecondColor = const Color(0xff07D9AD);
+  static  Color headlineColor = const Color(0xff222222);
+  static  Color containerColor = const Color(0xffC6EFE5).withOpacity(0.76);
+  static  Color privacyDescriptionColor = const Color(0xff959CB4).withOpacity(0.80);
+  static  Color changePasswordIconColor = const Color(0xffEB5757);
+  static  Color notificationsIconColor = const Color(0xff219653);
+  static  Color statisticsIconColor = const Color(0xff56CCF2);
+  static  Color aboutUsIconColor = const Color(0xffF2994A);
+  static  Color ratingStarColor = const Color(0xffF6D060);
+  static  Color notRatedStarColor = const Color(0xffE2E5EA);
+  static  Color favoriteIconColor = const Color(0xffFF0000);
+  static  Color editProfileBackgroundColor = const Color(0xff556386);
+  static  Color empty = const Color(0xffE2E5EA);
+  static  Color rating = const Color(0xffF6D060);
+  static  Color innerBorder = const Color(0xff677294).withOpacity(0.10);
+  static  Color backContainerColor = const Color(0xffCBCBCB).withOpacity(0.12);
+  static  Color addPatientColor = const Color(0xff0EBE7F).withOpacity(0.20);
+  static const Color lineColor = Color(0xffEDEDED);
+  static  Color backColor = const Color(0xff212121).withOpacity(0.79);
+  static  Color shadowColor = const Color(0xFF000000).withOpacity(0.06);
+  static  Color sizedBoxBorderColor = const Color(0xff677294).withOpacity(0.16);
+  static  Color radioColor = const Color(0xff677294).withOpacity(0.5);
+  static  Color gridFourFirstNoOpacityColor = const Color(0xff0EBE7F);
+  static  Color backgroundColorBehindBottomSheet = AppColors.blackColor.withOpacity(0.5);
+  static  Color shadowDoctorsCardColor = const Color(0xFF000000).withOpacity(0.08);
+  static  Color lightBlueColor = const Color(0xffC6EFE5).withOpacity(0.76);
+  static  Color backgroundSideBarColor1 = const Color(0xFF6F7FA1);
+  static  Color backgroundSideBarColor2 = const Color(0xFF5F6E90);
+  static  Color backgroundSideBarColor3 = const Color(0xFF536184);
+  static  Color addImageConatinerColor = const Color(0xff0EBE7F).withOpacity(0.20);
+  static Color orederMenuChildTextColor = Color.fromRGBO(103, 114, 148, 1);
+
+}
